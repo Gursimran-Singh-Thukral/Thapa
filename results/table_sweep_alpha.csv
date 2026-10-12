@@ -1,0 +1,5 @@
+name,n,alpha,d,h,plate_volume_mm3,fluid_volume_mm3,valid,fluid_pct_of_stock
+alpha = 90,13,90,3.8,4.0,109736.0,34264.0,True,23.79
+alpha = 110,13,110,3.8,4.0,107249.81,36750.19,True,25.52
+alpha = 130,13,130,3.8,4.0,103193.5,40806.5,True,28.34
+alpha = 150,13,150,3.8,4.0,92067.46,51932.54,True,36.06
